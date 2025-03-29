@@ -1,4 +1,4 @@
-# Gestión de Proyectos - Desarrollo Rutas Audioguías y Café de Especialidad
+# Desarrollo Rutas Audioguías y Café de Especialidad - BrewMap: Descubre y Comparte
 
 **Ciclo Formativo:** Desarrollo de Aplicaciones Web (DAW)  
 **Grupo de Trabajo:** Equipo de Desarrollo Rutas Audioguías y Café de Especialidad
